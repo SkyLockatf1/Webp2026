@@ -4597,3 +4597,231 @@ File C:\Users\skylock\AppData\Local\Programs\Python\Python312\Lib\pprint.py firs
 File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1772602250.562119
 File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\views\generic\list.py first seen with mtime 1772602250.962045
 File C:\Users\skylock\AppData\Local\Programs\Python\Python312\Lib\encodings\aliases.py first seen with mtime 1744088212.0
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1772602247.430498
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1772602246.4317653
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1772602247.7904382
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\management\sql.py first seen with mtime 1772602250.5133061
+File C:\Users\skylock\AppData\Local\Programs\Python\Python312\Lib\encodings\idna.py first seen with mtime 1744088212.0
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1772602247.7824667
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\github\ex0\myhello\hello_django\hello_django\wsgi.py first seen with mtime 1772602517.787707
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\autodetector.py first seen with mtime 1772602250.6252742
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\management\utils.py first seen with mtime 1772602250.517334
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1772602246.4317653
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1772602247.426696
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\questioner.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1772602247.426696
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\github\ex0\myhello\hello_django\myhello\migrations\__init__.py first seen with mtime 1772603021.6893127
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1772602247.4402368
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1772602250.0479736
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1772602246.429893
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1772602247.4359908
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1772602247.4359908
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1772602247.4325142
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1772602249.672176
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1772602247.4359908
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1772602247.4294803
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\management\commands\migrate.py first seen with mtime 1772602250.5291529
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\writer.py first seen with mtime 1772602250.6499157
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1772602247.4402368
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\optimizer.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\AppData\Local\Programs\Python\Python312\Lib\stringprep.py first seen with mtime 1744088212.0
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1772602247.7824667
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\db\migrations\serializer.py first seen with mtime 1772602250.6364691
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1772602250.0479736
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1772602246.4317653
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1772602247.4325142
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1772602247.4402368
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1772602250.4516819
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1772602247.4359908
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\management\commands\makemigrations.py first seen with mtime 1772602250.5291529
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 182, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 314, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\urls\resolvers.py", line 716, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>]], 'path': ''}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 982, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 989, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 182, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 314, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\urls\resolvers.py", line 716, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>]], 'path': ''}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 982, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 989, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>
+Not Found: /
+"GET / HTTP/1.1" 404 2312
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1772602248.9677656
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1772602248.965411
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1772602248.962629
+File C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1772602249.6647732
+File C:\Users\skylock\AppData\Local\Programs\Python\Python312\Lib\encodings\unicode_escape.py first seen with mtime 1744088212.0
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 182, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 314, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\urls\resolvers.py", line 716, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>]], 'path': ''}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 982, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 989, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 182, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\core\handlers\base.py", line 314, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\urls\resolvers.py", line 716, in resolve
+    raise Resolver404({"tried": tried, "path": new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>]], 'path': ''}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 982, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\skylock\Documents\Python\virtualenv\py3.12\Lib\site-packages\django\template\base.py", line 989, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <module 'myhello.urls' from 'C:\\Users\\skylock\\Documents\\Python\\virtualenv\\py3.12\\github\\ex0\\myhello\\hello_django\\myhello\\urls.py'> (None:None) 'hello/'>
+Not Found: /
+"GET / HTTP/1.1" 404 2312
+"GET /hello/ HTTP/1.1" 200 13
+"GET /hello/?name=jyp HTTP/1.1" 200 11
