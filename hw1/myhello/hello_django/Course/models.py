@@ -5,5 +5,3 @@ class table(models.Model):
     Department = models.TextField()
     CourseTitle = models.TextField()
     Instructor = models.TextField()
-    class Meta:
-        db_table = 'Course_table'

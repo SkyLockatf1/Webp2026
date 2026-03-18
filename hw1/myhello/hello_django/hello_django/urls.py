@@ -23,5 +23,5 @@ urlpatterns = [
 ]
 
 urlpatterns += [
-    path('', include('myhello.urls')),
+    path('', include('Course.urls')),
 ]
