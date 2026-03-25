@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      table {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      td,
+      th {
+        border: 1px solid #ddd;
+        padding: 6px;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+      tr:hover {
+        background-color: #ddd;
+      }
+      th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #04aa6d;
+        color: white;
+      }
+    </style>
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>資工選課表</h1>
+    <table id="csie">
+      <tr>
+        <th>開課單位</th>
+        <th>課程名稱</th>
+        <th>授課教授</th>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=A2337"
+          style="cursor: pointer"
+        >
+          物件導向軟體設計
+        </td>
+        <td>黃崇源</td>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=61602"
+          style="cursor: pointer"
+        >
+          計算機網路實驗
+        </td>
+        <td>李春良</td>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=A2338"
+          style="cursor: pointer"
+        >
+          作業系統實務
+        </td>
+        <td>張哲維</td>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=71796"
+          style="cursor: pointer"
+        >
+          生物統計
+        </td>
+        <td>陳光武</td>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=A2339"
+          style="cursor: pointer"
+        >
+          通訊系統
+        </td>
+        <td>陳仁暉</td>
+      </tr>
+      <tr>
+        <td>資工系</td>
+        <td
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+          data-url="https://catalog.cgu.edu.tw/coursedata?sectionid=A2340"
+          style="cursor: pointer"
+        >
+          軟硬體專題(2)
+        </td>
+        <td>魏志達</td>
+      </tr>
+    </table>
+    <button onclick="change_name()">Change</button>
+    <div class="modal fade" id="myModal">
+      <div class="modal-dialog modal-fullscreen-md-down">
+        <div class="modal-content" style="height:70vh">
+          <!-- header -->
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+            ></button>
+          </div>
+
+          <!-- body -->
+          <div class="modal-body p-0">
+            <iframe
+              src="https://catalog.cgu.edu.tw/coursedata?sectionid=A2337"
+              class="w-100 h-100 p-0"
+              id="myIframe"
+            ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      const modal = document.getElementById("myModal");
+
+      modal.addEventListener("show.bs.modal", function (event) {
+        const td = event.relatedTarget; // 被點擊的 td
+
+        const url = td.dataset.url;
+
+        document.getElementById("myIframe").src = url;
+      });
+      function change_name() {
+        var myTable = document.getElementById("csie");
+        myTable.rows[1].cells[2].innerHTML = "李春良";
+      }
+    </script>
+  </body>
+</html>
