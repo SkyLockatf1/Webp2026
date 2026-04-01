@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="tree"></p>
+</body>
+<script>
+    function tree(n){
+        printTreeTop(n);
+        printTreeBottom(n);
+    }
+    function printTreeTop(n){
+        for(let i=Math.floor(n/2),j=1;i>=0;i--,j+=2){
+            console.log(repeatchar(' ',i)+repeatchar('*',j));
+        }
+    }
+    function printTreeBottom(n){
+        for(let i=0;i<Math.floor(n/2);i++){
+            console.log(repeatchar(' ',Math.floor(n/2)) +"*");
+        }
+    }
+    function repeatchar(arg_char,n){
+        let string = "";
+        for(let i=0;i<n;i++){
+            string+=arg_char;
+        }
+        return string;
+    }
+    tree(7);
+</script>
+</html>
