@@ -8,6 +8,11 @@ function addfunction(){
     document.body.appendChild(btn);
 }
 function delfunction(){
+    // less than 1 case
+    if(count==1){
+        alert("no button can delete");
+        return;
+    }
     let btn = document.getElementById("btn_"+--count);
     console.log(btn);
     document.body.removeChild(btn);
